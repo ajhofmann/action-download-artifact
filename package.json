@@ -1,5 +1,6 @@
 {
   "name": "action-download-artifact",
+  "version": "1.0.0",
   "main": "main.js",
   "dependencies": {
     "@actions/core": "^1.2.6",
